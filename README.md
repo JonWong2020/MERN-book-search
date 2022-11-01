@@ -13,10 +13,10 @@
   * [Questions](#questions)
   
   ## Description
-  A MERN full-stack application that allows you to make a profile to add and delete book which utilizes the Google Books API to search through a list of books within that database.
+  A MERN full-stack application that allows you to make a profile to add and delete book which utilizes the Google Books API to search through a list of books within that database.  
   
   ## Usage
-  To use the applicaiton you can clone the repository.  Once cloned, you will needs Node.js installed as well to run the commands in the CLI, (Command Line Inteface), of your console's terminal along with MongoDB to create the database to hold the data.  To start the application you can run `node index.js` or `npm run start` in the console.  
+  To use the applicaiton you can clone the repository.  Once cloned, you will needs Node.js installed as well to run the commands in the CLI, (Command Line Inteface), of your console's terminal along with MongoDB to create the database to hold the data.  To start the application you can run `node index.js` or `npm run start` in the console.  A link to the application can be found in the `Links` section in the tab titled `Live Site`.  
   
   ## Licenses
     This project is covered under MIT license.  Click on the license badge at the top of the README to learn more.
